@@ -1,0 +1,1 @@
+docker container create --name mongovolume --mount "type=volume,source=mongodata,destination=/data/db" --publish 27018:27017 --env MONGO_INITDB_ROOT_USERNAME --env MONGO_INITDB_ROOT_PASSWORD mongo:latest

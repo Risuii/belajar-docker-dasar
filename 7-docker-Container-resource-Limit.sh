@@ -1,0 +1,1 @@
+docker container create --name <namaContainer> --publish <portHost>:<portContainer> --memory <jumlahMemory> --cpus <jumlahCpu> <namaImage>:<tag> # fungsi memory itu untuk menentukan berapa jumlah memory yang akan di pakai oleh si container itu dan fungsi cpus disini untuk menentukan jumlah dari cpu yang dipakai oleh si container ini

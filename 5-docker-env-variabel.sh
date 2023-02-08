@@ -1,0 +1,1 @@
+docker container create --name <namaContainer> --env KEY="value" --env KEY2="value" <namaImage>:<tag> #untuk menyimpan variabel 

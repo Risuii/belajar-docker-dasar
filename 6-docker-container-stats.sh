@@ -1,0 +1,1 @@
+docker container stats #untuk mengetahui pemakaian memory dan sebagainya dari si container
